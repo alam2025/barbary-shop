@@ -1,51 +1,33 @@
-import React, { useEffect, useState } from 'react';
-import { Link } from 'react-router-dom';
-
-const navList = (
-      <>
-            <li>
-                  <Link>Home</Link>
-            </li>
-            <li>
-                  <Link>Features</Link>
-            </li>
-            <li>
-                  <Link>The Shop</Link>
-            </li>
-            <li>
-                  <Link>The Blog</Link>
-            </li>
-      </>
-);
+import { useEffect, useState } from "react";
+import { NavLink, useLocation } from "react-router-dom";
 
 const Header = () => {
-      const [isNavbarFixed, setIsNavbarFixed] = useState(false);
+      const location = useLocation();
+      
+   
 
-      useEffect(() => {
-            const handleScroll = () => {
-                  if (window.pageYOffset > 0) {
-                        setIsNavbarFixed(true);
-                  } else {
-                        setIsNavbarFixed(false);
-                  }
-            };
+      const navList = (
+            <>
+                  <li>
+                        <NavLink  to="/" >Home</NavLink>
+                  </li>
+                  <li>
+                        <NavLink to="/features" >Features</NavLink>
+                  </li>
+                  <li>
+                        <NavLink to="/shop" >The Shop</NavLink>
+                  </li>
+                  <li>
+                        <NavLink to="/blog" >The Blog</NavLink>
+                  </li>
+            </>
+      );
 
-            const scrollTimeout = setTimeout(() => {
-                  setIsNavbarFixed(true);
-            }, 3000);
-
-            window.addEventListener('scroll', handleScroll);
-
-            return () => {
-                  clearTimeout(scrollTimeout);
-                  window.removeEventListener('scroll', handleScroll);
-            };
-      }, []);
+     
 
       return (
             <div
-                  className={`z-10 navbar shadow-lg bg-white h-[100px] ${isNavbarFixed ? 'fixed top-0 w-full transition-all duration-500' : ''
-                        }`}
+                  className={`z-10 navbar  shadow-lg bg-white h-[100px] `}
             >
                   <div className="navbar-start">
                         <div className="dropdown z-10">
