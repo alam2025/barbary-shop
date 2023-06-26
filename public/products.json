@@ -1,0 +1,163 @@
+[
+      {
+            "name": "Chair",
+            "image": "https://i.ibb.co/WK1r0Z7/chair.jpg",
+            "price": 19.99,
+            "rating": 4.5,
+            "category": "Living Room",
+            "_id": "6151df593dce4a9d72376a1a"
+      },
+      {
+            "name": "Towel Set",
+            "image": "https://i.ibb.co/tQS7Xzx/towel.jpg",
+            "price": 29.99,
+            "rating": 4.8,
+            "category": "Bathroom",
+            "_id": "6151df593dce4a9d72376a1b"
+      },
+      {
+            "name": "Wall Art",
+            "image": "https://i.ibb.co/0QV34Ns/wall-art.jpg",
+            "price": 24.99,
+            "rating": 4.2,
+            "category": "Accessories",
+            "_id": "6151df593dce4a9d72376a1c"
+      },
+      {
+            "name": "Kitchen Knife Set",
+            "image": "https://i.ibb.co/0QV34Ns/wall-art.jpg",
+            "price": 34.99,
+            "rating": 4.6,
+            "category": "Kitchen",
+            "_id": "6151df593dce4a9d72376a1d"
+      },
+      {
+            "name": "Sofa",
+            "image": "https://i.ibb.co/93y8CYx/sofa.jpg",
+            "price": 39.99,
+            "rating": 4.9,
+            "category": "Living Room",
+            "_id": "6151df593dce4a9d72376a1e"
+      },
+      {
+            "name": "Shower Curtain",
+            "image": "https://i.ibb.co/xgLfFgS/shower-cartain.jpg",
+            "price": 14.99,
+            "rating": 3.8,
+            "category": "Bathroom",
+            "_id": "6151df593dce4a9d72376a1f"
+      },
+      {
+            "name": "Candle Holder",
+            "image": "https://i.ibb.co/m0t19KR/candle-holder.jpg",
+            "price": 49.99,
+            "rating": 4.7,
+            "category": "Accessories",
+            "_id": "6151df593dce4a9d72376a20"
+      },
+      {
+            "name": "Coffee Maker",
+            "image": "https://i.ibb.co/NLSDMxj/coffe-maker.jpg",
+            "price": 21.99,
+            "rating": 4.1,
+            "category": "Kitchen",
+            "_id": "6151df593dce4a9d72376a21"
+      },
+      {
+            "name": "Pillow",
+            "image": "https://i.ibb.co/0QV34Ns/wall-art.jpg",
+            "price": 32.99,
+            "rating": 4.4,
+            "category": "Living Room",
+            "_id": "6151df593dce4a9d72376a22"
+      },
+      {
+            "name": "Bath Mat",
+            "image": "https://i.ibb.co/0QV34Ns/wall-art.jpg",
+            "price": 44.99,
+            "rating": 4.3,
+            "category": "Bathroom",
+            "_id": "6151df593dce4a9d72376a23"
+      },
+      {
+            "name": "Floor Lamp",
+            "image": "https://i.ibb.co/0QV34Ns/wall-art.jpg",
+            "price": 27.99,
+            "rating": 4.6,
+            "category": "Living Room",
+            "_id": "6151df593dce4a9d72376a24"
+      },
+      {
+            "name": "Toilet Paper Holder",
+            "image": "https://i.ibb.co/0QV34Ns/wall-art.jpg",
+            "price": 19.99,
+            "rating": 4.2,
+            "category": "Bathroom",
+            "_id": "6151df593dce4a9d72376a25"
+      },
+      {
+            "name": "Table Lamp",
+            "image": "https://i.ibb.co/0QV34Ns/wall-art.jpg",
+            "price": 36.99,
+            "rating": 4.9,
+            "category": "Living Room",
+            "_id": "6151df593dce4a9d72376a26"
+      },
+      {
+            "name": "Soap Dispenser",
+            "image": "https://i.ibb.co/0QV34Ns/wall-art.jpg",
+            "price": 23.99,
+            "rating": 4.5,
+            "category": "Bathroom",
+            "_id": "6151df593dce4a9d72376a27"
+      },
+      {
+            "name": "Cutting Board",
+            "image": "https://i.ibb.co/0QV34Ns/wall-art.jpg",
+            "price": 29.99,
+            "rating": 4.7,
+            "category": "Kitchen",
+            "_id": "6151df593dce4a9d72376a28"
+      },
+      {
+            "name": "Rug",
+            "image": "https://i.ibb.co/0QV34Ns/wall-art.jpg",
+            "price": 31.99,
+            "rating": 4.3,
+            "category": "Living Room",
+            "_id": "6151df593dce4a9d72376a29"
+      },
+      {
+            "name": "Toothbrush Holder",
+            "image": "https://i.ibb.co/0QV34Ns/wall-art.jpg",
+            "price": 26.99,
+            "rating": 4.1,
+            "category": "Bathroom",
+            "_id": "6151df593dce4a9d72376a2a"
+      },
+      {
+            "name": "Vase",
+            "image": "https://i.ibb.co/0QV34Ns/wall-art.jpg",
+            "price": 38.99,
+            "rating": 4.8,
+            "category": "Accessories",
+            "_id": "6151df593dce4a9d72376a2b"
+      },
+      {
+            "name": "Frying Pan",
+            "image": "https://i.ibb.co/0QV34Ns/wall-art.jpg",
+            "price": 17.99,
+            "rating": 4.4,
+            "category": "Kitchen",
+            "_id": "6151df593dce4a9d72376a2c"
+      },
+      {
+            "name": "Bookshelf",
+            "image": "https://i.ibb.co/0QV34Ns/wall-art.jpg",
+            "price": 42.99,
+            "rating": 4.6,
+            "category": "Living Room",
+            "_id": "6151df593dce4a9d72376a2d"
+      }
+]
+
